@@ -1,4 +1,5 @@
 # <img src="source/icon.png" width="45" align="left"> Refined GitHub
+# <img src="src/icon.png" width="45" align="left"> Refined GitHub [![Chrome version][badge-cws]][link-cws] [![Firefox version][badge-amo]][link-amo] [![Deployment][badge-travis]][link-travis]
 
 [link-cws]: https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf "Version published on Chrome Web Store"
 [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/refined-github-/ "Version published on Mozilla Add-ons"
@@ -162,6 +163,7 @@ GitHub Enterprise is also supported. More info in the options.
 - [Inactive deployments in PR timelines are hidden.](https://github.com/sindresorhus/refined-github/issues/1144)
 
 And [many more…](source/content.css)
+And [lots](src/content.css) [more...](src/content.js)
 
 ### More shortcuts
 
